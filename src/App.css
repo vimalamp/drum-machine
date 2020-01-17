@@ -1,22 +1,24 @@
-.App {
-  text-align: center;
+#root {
+  height: 100vh;
 }
-
-.App-logo {
-  height: 40vmin;
+#drum-machine {
+  background-color: lightgoldenrodyellow;
+  min-height: 100%;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.title {
+  background-color: rgb(247, 236, 138);
 }
-
-.App-link {
-  color: #09d3ac;
+.pads-area {
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color:rgb(247, 236, 138);
+}
+.drum-pad {
+  border-radius: 15%; 
+  border-color: #ffcf00;
+  margin: 0.5% 1%;
+  width: 30%;
+  height: 50px;
+  background-color:#e9be06;
 }
