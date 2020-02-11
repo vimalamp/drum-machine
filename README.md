@@ -1,4 +1,4 @@
-#### This is a drum imulator. Click on a button and hear a sound. It's been created with the React library. 
+#### This is a drum imulator. Click a button and hear a sound. It's been created with the React library. 
 
 #### Link to the working project:
 
