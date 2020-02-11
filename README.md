@@ -1,3 +1,10 @@
+This is a drum imulator. Click on a button and hear a sound. It's been created with the React library. 
+Link to the working project:
+https://vimalamp.github.io/drum-machine/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
